@@ -13,7 +13,9 @@ This project is purely based on Python3 without any framework.
 ## How to play?
 1. Click "PLAY". 
 2. Click the "SPACE" button to shoot your bullet  
-3. REMEMBER to avoid running into any enermy and stop them to reach the screen bottom.  
+3. REMEMBER to avoid running into any enermy and stop them to reach the screen bottom.    
 
 
-<image src="https://github.com/xianhe-zhang/allienInvasionGame/blob/main/image/ss1.png" />
+<image src="https://github.com/xianhe-zhang/allienInvasionGame/blob/main/image/ss1.png", width=20% />  
+<image src="https://github.com/xianhe-zhang/allienInvasionGame/blob/main/image/ss2.png", width=20% />
+ 
